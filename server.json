@@ -7,7 +7,7 @@
     "url": "https://github.com/marketscore/marketscore-direct-mcp",
     "source": "github"
   },
-  "websiteUrl": "https://marketscore.ru",
+  "websiteUrl": "https://app.marketscore.ru",
   "packages": [
     {
       "registryType": "npm",
