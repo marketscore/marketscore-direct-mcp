@@ -8,14 +8,6 @@
     "source": "github"
   },
   "websiteUrl": "https://app.marketscore.ru",
-  "packages": [
-    {
-      "registryType": "npm",
-      "identifier": "marketscore-direct-mcp",
-      "version": "0.1.0",
-      "transport": { "type": "stdio" }
-    }
-  ],
   "remotes": [
     {
       "type": "streamable-http",
