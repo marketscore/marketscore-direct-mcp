@@ -31,7 +31,7 @@
     "direct-manager"
   ],
   "license": "MIT",
-  "homepage": "https://marketscore.ru",
+  "homepage": "https://app.marketscore.ru",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marketscore/marketscore-direct-mcp.git"
@@ -39,5 +39,5 @@
   "bugs": {
     "url": "https://github.com/marketscore/marketscore-direct-mcp/issues"
   },
-  "author": "Direct Manager (marketscore.ru)"
+  "author": "Direct Manager (app.marketscore.ru)"
 }
