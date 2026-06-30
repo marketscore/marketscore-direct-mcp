@@ -1,5 +1,7 @@
 # Direct Manager — MCP для Яндекс Директа · MCP for Yandex Direct
 
+[![Glama MCP server](https://glama.ai/mcp/servers/marketscore/marketscore-direct-mcp/badges/score.svg)](https://glama.ai/mcp/servers/marketscore/marketscore-direct-mcp)
+
 > ИИ-коннектор для Яндекс Директа: подключите **Claude** или **ChatGPT** к рекламному кабинету и управляйте кампаниями прямо в диалоге — статистика, поиск неэффективных расходов, ставки, бюджеты, минус-слова, аудит.
 >
 > AI/MCP connector for **Yandex Direct**: connect **Claude** or **ChatGPT** to your ad account and manage campaigns from chat — analytics, wasted-spend detection, bids, budgets, negative keywords, audit.
