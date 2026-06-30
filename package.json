@@ -1,0 +1,43 @@
+{
+  "name": "marketscore-direct-mcp",
+  "version": "0.1.0",
+  "description": "MCP connector for Yandex Direct (Яндекс Директ) — manage ad campaigns and analytics from Claude or ChatGPT. Requires a Direct Manager account (marketscore.ru).",
+  "type": "module",
+  "bin": {
+    "marketscore-direct-mcp": "bin/cli.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "yandex-direct",
+    "yandex direct",
+    "яндекс директ",
+    "ppc",
+    "ads",
+    "advertising",
+    "context-advertising",
+    "roas",
+    "claude",
+    "chatgpt",
+    "ai",
+    "marketing",
+    "direct-manager"
+  ],
+  "license": "MIT",
+  "homepage": "https://marketscore.ru",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marketscore/marketscore-direct-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marketscore/marketscore-direct-mcp/issues"
+  },
+  "author": "Direct Manager (marketscore.ru)"
+}
